@@ -1,5 +1,13 @@
 Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
 
+
+
+$$\Large E=\Large \min\limits_{\textbf{T}}\{\|x\|\}$$
+
+$$\Large
+E=\Large \min\limits_{\textbf{T}}\{ \| \textbf{T}-\textbf{L}\|^{2}_{F} +\lambda\|\vec{\textbf{W}}\circ\vec{\nabla}\textbf{T}\|_{1}\}
+$$
+
 ![Image of fast.ai logo](images/logo.png)
 
 ## This is a title
